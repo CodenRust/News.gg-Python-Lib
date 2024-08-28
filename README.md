@@ -58,5 +58,5 @@ except NewsAPIError as e:
 
 ## License
 
-[MIT](https://github.com/nrgiazo/News.gg/blob/main/LICENSE.txt)
+[MIT](https://github.com/nrgiazo/News.gg-Python-Lib/blob/main/LICENSE.txt)
 
